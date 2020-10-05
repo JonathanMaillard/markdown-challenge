@@ -65,4 +65,4 @@ My parents bought me a new Playstation 2...
 I am an idiot.
 
 
-[<< previous](http://github.com) || Jonathan Maillard || [next >>](http://github.com)
+[<< previous](https://github.com/Ingridfe1982/Markdown-Challenge) || Jonathan Maillard || [next >>](https://github.com/KevKsar/markdown-challenge)
