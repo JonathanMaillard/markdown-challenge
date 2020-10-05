@@ -11,11 +11,14 @@
 
 ## "A kind little guy who just want to enjoy life"
 
+
+Test | Test2
 ------------ | -------------
 Birthday | 28/07
 Favorite color | Red
 Favorite food | French fries
 Pinneapple on pizza | - [ ] Yes - [x] No
+
 
 ## Hobbies
 
@@ -56,7 +59,7 @@ When I was a kid, I secretly broke my Playstation 2 hoping to get a Playstation 
 My parents bought me a new Playstation 2...
 
 
-### TL;DR
+#### TL;DR
 
 
 I am an idiot.
