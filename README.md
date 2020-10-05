@@ -12,12 +12,12 @@
 ## "A kind little guy who just want to enjoy life"
 
 
-Test | Test2
+Info | Data
 ------------ | -------------
 Birthday | 28/07
 Favorite color | Red
 Favorite food | French fries
-Pinneapple on pizza | - [ ] Yes - [x] No
+Pinneapple on pizza | [ ] Yes  [x] No
 
 
 ## Hobbies
