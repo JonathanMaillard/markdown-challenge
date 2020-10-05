@@ -9,7 +9,7 @@
 ![Personal Photo](jonathan.jpg)
 
 
-## "A kind little guy who just want to enjoy life"
+## "A kind little guy who just wants to enjoy life"
 
 
 Info | Data
