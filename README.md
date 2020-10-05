@@ -1,21 +1,23 @@
 
 
-#Jonathan Maillard
+# Jonathan Maillard
 
 
 *"I’ve got a bad feeling about this."*
 
 
-![Personal Photo](jonathan.png)
+![Personal Photo](jonathan.jpg)
 
 
 ## "A kind little guy who just want to enjoy life"
 
 
-*Birthday: 28/07
-*Favorite color: Red
-*Favorite food: French fries
-*Pinneapple on pizza: - [ ] Yes - [x] No
+* Birthday: 28/07
+* Favorite color: Red
+* Favorite food: French fries
+* Pinneapple on pizza: 
+- [ ] Yes 
+- [x] No
 
     Hobbies (smaller header)
 
