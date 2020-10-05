@@ -11,13 +11,11 @@
 
 ## "A kind little guy who just want to enjoy life"
 
-
+------------ | -------------
 Birthday | 28/07
 Favorite color | Red
 Favorite food | French fries
-Pinneapple on pizza | 
-- [ ] Yes 
-- [x] No
+Pinneapple on pizza | - [ ] Yes - [x] No
 
 ## Hobbies
 
@@ -51,7 +49,7 @@ You just want to have a good laugh.
 I am a good listener and I easily makes people feel comfortable with me. You can trust me :)
 
 
-## A funny story (smaller header)
+## A funny story
 
 
 When I was a kid, I secretly broke my Playstation 2 hoping to get a Playstation 3.<br>
@@ -64,8 +62,4 @@ My parents bought me a new Playstation 2...
 I am an idiot.
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
-
-
-<< previous || YOUR NAME || next >>
+[<< previous](http://github.com) || Jonathan Maillard || [next >>](http://github.com)
