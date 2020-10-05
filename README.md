@@ -12,34 +12,60 @@
 ## "A kind little guy who just want to enjoy life"
 
 
-* Birthday: 28/07
-* Favorite color: Red
-* Favorite food: French fries
-* Pinneapple on pizza: 
+Birthday | 28/07
+Favorite color | Red
+Favorite food | French fries
+Pinneapple on pizza | 
 - [ ] Yes 
 - [x] No
 
-    Hobbies (smaller header)
+## Hobbies
 
-    This should contain a bullet list of your hobbies
-    At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
+* Video Games
+    * Mass Effect
+    * Jak & Daxter
+    * Spyro
+    * The Witcher
+    * Assassin's Creed
+* Movies
+    * Star Wars
+    * Back to the Future
+    * The Lord of the Rings
+    * Harry Potter
+* Music
+* Computer Assembling / Software Installing and Cleaning
 
-    You can always count on me when... (smaller header)
 
-    Tell your teammates which positive contribution to the group you will make.
-    This could be technical, making people feel comfortable, being an organiser...
+## You can always count on me when...
 
-    A funny story (smaller header)
 
-    Tell a short funny story about your life.
+You need someone to help you with your code.
 
-    TL;DR (even smaller header, under funny story)
 
-    Summarise your funny story in one short sentence.
+You need to talk to someone.
 
-    ! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-    Organise yourself so it is easy to know who you should link to.
 
-    The links should have the following structure:
+You just want to have a good laugh.
 
-    << previous || YOUR NAME || next >>
+
+I am a good listener and I easily makes people feel comfortable with me. You can trust me :)
+
+
+## A funny story (smaller header)
+
+
+When I was a kid, I secretly broke my Playstation 2 hoping to get a Playstation 3.<br>
+My parents bought me a new Playstation 2...
+
+
+### TL;DR
+
+
+I am an idiot.
+
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+
+<< previous || YOUR NAME || next >>
